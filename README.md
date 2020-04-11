@@ -1,9 +1,10 @@
 # declaratie-covid-precompletata
 
-* Downloadezi fisiere
+* Downloadezi fisierele
 * Le urci pe serverul tau (Apache, Tomcat whatever)
 * Modifici in index.php numele, prenumele data nasterii, adresa de domiciliu
 * Pui un motiv default in placeholderul inputului cu scopul deplasarii
+* Deschizi pagina pe telefon si salvezi ca pdf pagina ori de cate ori cineva te intreaba de sanatate
 
 Data se actualizeaza automat cu data curenta
 
