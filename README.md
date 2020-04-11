@@ -8,3 +8,5 @@
 Data se actualizeaza automat cu data curenta
 
 ![Declaratie](./Capture.JPG)
+
+![Telefon Test](./telefon.jpg)
